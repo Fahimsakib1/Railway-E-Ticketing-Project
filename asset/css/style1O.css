@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("../image/12.jpg");
+    background-width: 100px;
+    background-height: 90px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
